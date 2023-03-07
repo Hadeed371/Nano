@@ -276,9 +276,9 @@ def cek_apk(coki):
     else:
             print(f'\r')
             #print(f'\r %s[%s!%s] Sorry, Apk check failed invalid cookie\n'%(N,M,N))
-def Main()
 
-clear()
+
+
 	print('\t\033[1;37m\033[1;41mENJOY TOOL \033[1;0m\33[1;37m')
 	linex()
 	print('\033[1;37m[\033[1;32m1\033[1;37m] File Cloning\n[\033[1;32m2\033[1;37m] Random Number Cloning  \n[\033[1;32m3\033[1;37m] Random Email Cloning \n[\033[1;32m5\033[1;37m] Random Cloning  \033[1;32m>>>\033[1;37m {2009-12} \n\033[1;37m[\033[1;32m6\033[1;37m] \033[1;33mContact Admin \n\033[1;37m[\033[1;32m0\033[1;37m] \033[1;31mExit Programming');linex()
