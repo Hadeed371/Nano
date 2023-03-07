@@ -276,7 +276,7 @@ def cek_apk(coki):
     else:
             print(f'\r')
             #print(f'\r %s[%s!%s] Sorry, Apk check failed invalid cookie\n'%(N,M,N))
-def Main():
+def Main()
 
 clear()
 	print('\t\033[1;37m\033[1;41mENJOY TOOL \033[1;0m\33[1;37m')
